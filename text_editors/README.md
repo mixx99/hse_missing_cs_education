@@ -266,7 +266,8 @@ Sublime Text также нацелен на очень высокую произ
 * `Ctrl+shift+up arrow` &mdash; поменять строку с верхней местами
 * `Ctrl+k + Ctrl+u` &mdash; поменять выделенные символы в верхний регистр
 * `Ctrl+k + Ctrl+l` &mdash; поменять выделенные символы в нижний регистр
-* `Ctrl+left,rigght arr` &mdash; выделение налево или направо
+* `Ctrl+Shift+left arrow` &mdash; выделение по частям налево
+* `Ctrl+Shift+right arrow` &mdash; выделение по частям направо
 * `Ctrl+l` &mdash; выделить всю строку
 * `Ctrl+d` &mdash; выбор слова
 * `Ctrl+Alt+Space` &mdash; пометить строку для будущего прыжка по помеченным
